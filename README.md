@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&section=header&color=0:00ff87,100:60efff)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&section=header&color=0:00ff87,100:60efff">
+</p>
 
 <p align="center">
   <a href="https://portfolio-gustavoss.herokuapp.com/">
@@ -74,7 +76,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=3E3B56&text=%20Stats%20&fontColor=FFFFFF&fontSize=40&animation=fadeIn&reversal=true&fontAlign=50&fontAlignY=70&textBg=true">
 </p>
 <br>
-<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&theme=gotham&show_icons=true&include_all_commits=true"> 
-<img align="rigth" height="170em" src="https://github-readme-stats.vercel.app/api?username=SSilvaGustavo&theme=gotham&show_icons=true&count_private=true&include_all_commits=true">
+<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&theme=gotham&show_icons=true&include_all_commits=true"> 
+<img align="rigth" height="150em" src="https://github-readme-stats.vercel.app/api?username=SSilvaGustavo&theme=gotham&show_icons=true&count_private=true&include_all_commits=true">
 <br>
-![Snake animation](https://github.com/SSilvaGustavo/SSilvaGustavo/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00ff87,100:60efff&text=Thank% You&fontAlignY=90&fontColor=FFFFFF">
+</p>
