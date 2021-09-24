@@ -79,6 +79,8 @@
 <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&theme=gotham&show_icons=true&include_all_commits=true"> 
 <img align="rigth" height="150em" src="https://github-readme-stats.vercel.app/api?username=SSilvaGustavo&theme=gotham&show_icons=true&count_private=true&include_all_commits=true">
 <br>
+<img src="https://github.com/SSilvaGustavo/SSilvaGustavo/blob/output/github-contribution-grid-snake.svg">
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00ff87,100:60efff&text=Thank% You&fontAlignY=90&fontColor=FFFFFF&animation=twinkling">
 </p>
