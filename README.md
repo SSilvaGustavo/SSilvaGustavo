@@ -10,7 +10,7 @@
 
 
 ## Hi I'm Gustavo, Nice to meet you
-  I'm a junior full stack developer, I'm studying about this area of ​​programming and focusing on some specific tools. I love what I do and intend to go deeper and deeper into this amazing world 💖
+  I'm full stack developer, I'm studying about this area of ​​programming and focusing on some specific tools. I love what I do and intend to go deeper and deeper into this amazing world 💖
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&section=header&color=FFFFFF&height=20px">
