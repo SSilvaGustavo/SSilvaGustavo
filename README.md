@@ -76,11 +76,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=3E3B56&text=%20Stats%20&fontColor=FFFFFF&fontSize=40&animation=fadeIn&reversal=true&fontAlign=50&fontAlignY=70&textBg=true">
 </p>
 <br>
-<img align="left" height="200em" src="https://github-readme-stats-ssilvagustavo.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&theme=gotham&show_icons=true&include_all_commits=true"> 
-<img align="rigth" height="150em" src="https://github-readme-stats-ssilvagustavo.vercel.app/api?username=SSilvaGustavo&theme=gotham&show_icons=true&count_private=true&include_all_commits=true">
-<br>
-<img src="https://github.com/SSilvaGustavo/SSilvaGustavo/blob/output/github-contribution-grid-snake.svg">
+<p align="center">
+  <img height="180rem" max-width="100%" src="https://github-readme-stats-ssilvagustavo.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&theme=gotham&show_icons=true&include_all_commits=true"> 
+  <img height="180rem" max-width="100%" src="https://github-readme-stats-ssilvagustavo.vercel.app/api?username=SSilvaGustavo&theme=gotham&show_icons=true&count_private=true&include_all_commits=true">
+ </p>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00ff87,100:60efff&text=Thank% You&fontAlignY=90&fontColor=FFFFFF&animation=twinkling">
+  <img src="https://github.com/SSilvaGustavo/SSilvaGustavo/blob/output/github-contribution-grid-snake.svg">
+</p>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00ff87,100:60efff&animation=twinkling">
 </p>
