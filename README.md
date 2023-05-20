@@ -77,8 +77,8 @@
 </p>
 <br>
 <p align="center">
-  <img height="180rem" max-width="100%" src="https://github-readme-stats-ssilvagustavo.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&theme=gotham&show_icons=true&include_all_commits=true"> 
-  <img height="180rem" max-width="100%" src="https://github-readme-stats-ssilvagustavo.vercel.app/api?username=SSilvaGustavo&theme=gotham&show_icons=true&count_private=true&include_all_commits=true">
+  <img height="180rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&theme=gotham&show_icons=true&include_all_commits=true"> 
+  <img height="180rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api?username=SSilvaGustavo&theme=gotham&show_icons=true&count_private=true&include_all_commits=true">
  </p>
 <br>
 <p align="center">
