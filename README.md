@@ -13,7 +13,7 @@
 Passionate front-end developer dedicated to expanding skills in web development, committed to delivering exceptional results and staying at the forefront of the industry. 🚀👨‍💻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BA9F&text=Technologies&fontSize=40&desc=Languages%20and%20Frameworks&descAlignY=75&descAlign=52&descSize=15&animation=fadeIn" width="1500px">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BA9F&text=Technologies&fontSize=60&desc=Languages%20and%20Frameworks&descAlignY=85&descAlign=55&descSize=20&animation=fadeIn" width="1500px">
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=272736&text=%20Experience%20&fontColor=00BA9F&fontSize=40&animation=fadeIn&fontAlign=50">
@@ -58,7 +58,7 @@ Passionate front-end developer dedicated to expanding skills in web development,
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BA9F&text=Contact&fontSize=40&desc=Links&descAlignY=75&descAlign=56&descSize=15&animation=fadeIn" width="1500px">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BA9F&text=Contact&fontSize=60&desc=Links&descAlignY=80&descAlign=58&descSize=20&animation=fadeIn" width="1500px">
 </p>
 
 <p align="center">If you want to talk to me, don't be shy, send me a message or just say "hi" 😄</p>
