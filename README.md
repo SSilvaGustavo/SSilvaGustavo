@@ -12,7 +12,7 @@
 
 Passionate front-end developer dedicated to expanding skills in web development, committed to delivering exceptional results and staying at the forefront of the industry. 🚀👨‍💻
 
-<p align="center">
+<p align="center" style="margin-bottom: 50px;">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BA9F&text=Technologies&fontSize=60&desc=Languages%20and%20Frameworks&descAlignY=85&descAlign=55&descSize=20&animation=fadeIn" width="1500px">
 </p>
 <p align="center">
@@ -32,8 +32,7 @@ Passionate front-end developer dedicated to expanding skills in web development,
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </p>
 <br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:bf0fff,100:cbff49&height=16">
+<p align="center" style="margin-bottom: 50px;">
 </p>
 <br>
 <p align="center">
@@ -53,7 +52,6 @@ Passionate front-end developer dedicated to expanding skills in web development,
 </p>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:bf0fff,100:cbff49&height=16">
 </p>
 <br>
 
@@ -72,7 +70,6 @@ Passionate front-end developer dedicated to expanding skills in web development,
 </p>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:bf0fff,100:cbff49&height=16">
 </p>
 <br>
 <p align="center">
@@ -80,7 +77,7 @@ Passionate front-end developer dedicated to expanding skills in web development,
 </p>
 <br>
 <p align="center">
-  <img height="160rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&show_icons=true&include_all_commits=true&bg_color=272736&title_color=00BA9F&icon_color=00BA9F&text_color=FFFFFF&border_color=00BA9F"> 
+  <img height="160rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&show_icons=true&include_all_commits=true&bg_color=272736&title_color=00BA9F&icon_color=00BA9F&text_color=FFFFFF&border_color=00BA9F">
   <img height="160rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api?username=SSilvaGustavo&show_icons=true&count_private=true&include_all_commits=true&bg_color=272736&title_color=00BA9F&icon_color=00BA9F&text_color=FFFFFF&border_color=00BA9F">
  </p>
 <br>
