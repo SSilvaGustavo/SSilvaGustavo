@@ -12,9 +12,11 @@
 
 Passionate front-end developer dedicated to expanding skills in web development, committed to delivering exceptional results and staying at the forefront of the industry. 🚀👨‍💻
 
-<p align="center" style="margin-bottom: 50px;">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BA9F&text=Technologies&fontSize=60&desc=Languages%20and%20Frameworks&descAlignY=85&descAlign=55&descSize=20&animation=fadeIn" width="1500px">
 </p>
+<br>
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=272736&text=%20Experience%20&fontColor=00BA9F&fontSize=40&animation=fadeIn&fontAlign=50">
 </p>
@@ -38,7 +40,7 @@ Passionate front-end developer dedicated to expanding skills in web development,
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
 </p>
 <br>
-<p align="center" style="margin-bottom: 50px;">
+<p align="center">
 </p>
 <br>
 <p align="center">
@@ -55,13 +57,8 @@ Passionate front-end developer dedicated to expanding skills in web development,
 </p>
 <br>
 <p align="center">
-</p>
-<br>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BA9F&text=Contact&fontSize=60&desc=Links&descAlignY=80&descAlign=58&descSize=20&animation=fadeIn" width="1500px">
 </p>
-
 <p align="center">If you want to talk to me, don't be shy, send me a message or just say "hi" 😄</p>
 <p align="center">
 <a href="https://gpantaleao.vercel.app/" alt="Website">
