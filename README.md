@@ -30,6 +30,12 @@ Passionate front-end developer dedicated to expanding skills in web development,
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
 </p>
 <br>
 <p align="center" style="margin-bottom: 50px;">
@@ -39,16 +45,13 @@ Passionate front-end developer dedicated to expanding skills in web development,
   <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=272736&text=%20Interests%20&fontColor=00BA9F&fontSize=40&animation=fadeIn&fontAlign=50">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 </p>
 <br>
 <p align="center">
@@ -61,11 +64,11 @@ Passionate front-end developer dedicated to expanding skills in web development,
 
 <p align="center">If you want to talk to me, don't be shy, send me a message or just say "hi" 😄</p>
 <p align="center">
-<a href="https://ssilvagustavo.vercel.app/" alt="Website">
-  <img src="https://img.shields.io/badge/-Website-272736?style=for-the-badge&logo=windows&logoColor=00FFFF&link=https://ssilvagustavo.vercel.app/">
+<a href="https://gpantaleao.vercel.app/" alt="Website">
+  <img src="https://img.shields.io/badge/-Website-272736?style=for-the-badge&logo=windows&logoColor=00FFFF&link=https://gpantaleao.vercel.app/">
 </a>
-<a href="https://www.linkedin.com/in/gustavosouzadev/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-272736?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/gustavo-souza-a833ba1a1/"/>
+<a href="https://www.linkedin.com/in/gustavopantaleaodev/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-272736?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/gustavopantaleaodev/"/>
 </a>
 </p>
 <br>
