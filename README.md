@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ssilvagustavo.vercel.app/">
+  <a href="https://gpantaleao.vercel.app/">
      <img src="cover.png" alt="Cover" title="Gustavo Souza" border="0">
    </a>
 </p>
@@ -77,8 +77,8 @@ Passionate front-end developer dedicated to expanding skills in web development,
 </p>
 <br>
 <p align="center">
-  <img height="160rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api/top-langs/?username=SSilvaGustavo&layout=compact&show_icons=true&include_all_commits=true&bg_color=272736&title_color=00BA9F&icon_color=00BA9F&text_color=FFFFFF&border_color=00BA9F">
-  <img height="160rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api?username=SSilvaGustavo&show_icons=true&count_private=true&include_all_commits=true&bg_color=272736&title_color=00BA9F&icon_color=00BA9F&text_color=FFFFFF&border_color=00BA9F">
+  <img height="160rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api/top-langs/?username=GPantaleao&layout=compact&show_icons=true&include_all_commits=true&bg_color=272736&title_color=00BA9F&icon_color=00BA9F&text_color=FFFFFF&border_color=00BA9F">
+  <img height="160rem" max-width="100%" src="https://github-readme-stats-gamma-lovat.vercel.app/api?username=GPantaleao&show_icons=true&count_private=true&include_all_commits=true&bg_color=272736&title_color=00BA9F&icon_color=00BA9F&text_color=FFFFFF&border_color=00BA9F">
  </p>
 <br>
 
